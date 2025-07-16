@@ -1,10 +1,10 @@
-Funci髇 resultado <- Hora_x_tarifa(horas,tarifa)
+Funci贸n resultado <- Hora_x_tarifa(horas,tarifa)
 	resultado <- horas*tarifa
-FinFunci髇
+FinFunci贸n
 
-Funci髇 resultado <- Impuesto_descontado(porcentaje,100,1)
+Funci贸n resultado <- Impuesto_descontado(porcentaje,100,1)
 	resultado <- 1-(porcentaje/100)
-FinFunci髇
+FinFunci贸n
 
 Algoritmo Pago_neto
 	Escribir 'Ingresa el numero total de horas trabajadas'
